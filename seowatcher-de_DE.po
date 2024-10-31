@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: seowatcher\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-02 11:00+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Leon <leon.kellermann@web.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: statistik.php:34
+msgid "on"
+msgstr "ist am"
+
+#: statistik.php:34
+msgid "at Position"
+msgstr "auf Position"
+
+#: statistik.php:133
+msgid "Loading Statistic"
+msgstr "Lade Statistik"
+
+#: statistik.php:142
+msgid "Select Keyword"
+msgstr "Keyword auswählen"
+
+#: statistik.php:145
+msgid "Statistic to show"
+msgstr "Anzuzeigende Statistik"
+
+#: statistik.php:158
+msgid "Select desired Keyword."
+msgstr "Wählen sie das gewünschte Keyword"
+
+#: statistik.php:159
+msgid "Show"
+msgstr "Anzeigen"
+
+#: statistik.php:164
+msgid "Statistic for"
+msgstr "Statistik für"
+
+#: wp-seowatcher.php:69
+msgid "google.com"
+msgstr "google.de"
+
+#: wp-seowatcher.php:84
+msgid "Refresh was started."
+msgstr "Aktualisierung wurde gestartet."
+
+#: wp-seowatcher.php:189
+msgid "Current Google Ranking"
+msgstr "Aktuelle Google Position"
+
+#: wp-seowatcher.php:189
+#: wp-seowatcher.php:303
+msgid "Statistic"
+msgstr "Statistik"
+
+#: wp-seowatcher.php:194
+msgid "Keyword"
+msgstr "Keyword"
+
+#: wp-seowatcher.php:195
+msgid "URL"
+msgstr "Adresse"
+
+#: wp-seowatcher.php:196
+msgid "Last Week"
+msgstr "Letzte Woche"
+
+#: wp-seowatcher.php:197
+msgid "Yesterday"
+msgstr "Gestern"
+
+#: wp-seowatcher.php:198
+msgid "Today"
+msgstr "Heute"
+
+#: wp-seowatcher.php:220
+msgid "Options were updated."
+msgstr "Optionen wurden aktualisiert!"
+
+#: wp-seowatcher.php:234
+msgid "Wrong pattern for other server."
+msgstr "Falsches Format für andere Server eingegeben."
+
+#: wp-seowatcher.php:254
+msgid "About Seo Watcher"
+msgstr "Über Seo Watcher"
+
+#: wp-seowatcher.php:256
+msgid "Seo Watcher helps you to keep track of your Google rankings."
+msgstr "Seo Watcher hilft dir deine Googlepositionen im Auge zu behalten."
+
+#: wp-seowatcher.php:257
+msgid "In your <b>Dashboard</b> you'll find your current daily statistics."
+msgstr "In deinem <b>Dashboard</b> findest du immer die tagesaktuellen Statistiken."
+
+#: wp-seowatcher.php:261
+msgid "Support us!"
+msgstr "Unterstütze uns!"
+
+#: wp-seowatcher.php:263
+msgid "A lot of work has been put into the development of Seo Watcher.<br> If you want to make sure that Seo Watcher remains free, please consider donating."
+msgstr "In Seo Watcher steckt mittlerweile viel Arbeit.<br> Wenn ihr dafür sorgen möchtet das Seo Watcher weiterhin kostenlos bleibt spendet. <br>"
+
+#: wp-seowatcher.php:275
+msgid "Why can I define so few keywords?"
+msgstr "Warum so wenige Keywords?"
+
+#: wp-seowatcher.php:277
+msgid "This limitation is in place for your protection. If there are too many search requests being sent to Google by one IP, it might happen, that Google blocks the IP for a while. Hence better safe than sorry."
+msgstr "Die Limitierung ist zu ihrem Schutz eingebaut. Werden von einer IP zuviele Suchanfragen an Google gesendet, kommt es vor, dass für eine Weile Google.de nicht aufgerufen werden kann. Daher lieber auf Nummer Sicher gehen!"
+
+#: wp-seowatcher.php:282
+msgid "Why does the activation of the plugin take so long?"
+msgstr "Warum dauert das aktivieren des Plugins so lange?"
+
+#: wp-seowatcher.php:284
+msgid "At the day's first activation, the cronjob will be carried out immediately inside of the same request. This might take some time additional to the process of activation."
+msgstr "Bei der ersten Aktivierung am Tag wird der Cronjob umgehend innerhalb desselben Requests ausgelöst. Das kann zusätzlich zu dem Aktivierungsvorgang etwas dauern."
+
+#: wp-seowatcher.php:289
+msgid "When will the data be refreshed?"
+msgstr "Wann werden die Daten aktualisiert?"
+
+#: wp-seowatcher.php:291
+msgid "The cronjob runs every day at midnight. As soon as the first user after midnight requests a page of your blog, the cronjob is being run."
+msgstr "Täglich um Mitternacht ist der Cronjob aktiv. Sobald der erste Nutzer nach Mitternacht eine Seite in deinem Blog aufruft wird der Cronjob ausgeführt."
+
+#: wp-seowatcher.php:303
+msgid "Seo Watcher Options"
+msgstr "Seo Watcher Optionen"
+
+#: wp-seowatcher.php:306
+msgid "Keywords"
+msgstr "Keywords"
+
+#: wp-seowatcher.php:308
+msgid "Keywords to check:"
+msgstr "Abzurufende Keywords:"
+
+#: wp-seowatcher.php:309
+msgid "(Seperate multiple Keywords by comma.)</p><p>Each of these keywords will be read for each single URL, so you can compare your Google ranking with other websites.</p><p><b>You can define at most 3 keywords.</b></p>"
+msgstr "(Trennen Sie mehrere Keywords durch Komma) </p><p>Für jede Adresse wird die jeweilige Keyword Position ausgelesen.</p><p><b>Es können Maximal 3 Keywords angegeben werden.</b></p>"
+
+#: wp-seowatcher.php:312
+msgid "URLs"
+msgstr "Adressen"
+
+#: wp-seowatcher.php:314
+msgid "URLs to check:"
+msgstr "Abzurufende Adressen:"
+
+#: wp-seowatcher.php:315
+msgid "(Seperate multiple URLs by comma.)</p><p> The URLs have to be entered using the pattern subdomain.domain.com or domain.com.</p><p><b>You can define at most 3 URLs.</b></p>"
+msgstr "(Trennen Sie mehrere Adressen durch Komma.)</p><p> Die Adressen bitte in der Form Subdomain.Domain.com oder Domain.com eingeben.</p><p><b>Es können Maximal 3 Internetadressen angegeben werden.</b></p>"
+
+#: wp-seowatcher.php:321
+msgid "Google Server:"
+msgstr "Google Server:"
+
+#: wp-seowatcher.php:326
+msgid "other server:"
+msgstr "Anderer Server:"
+
+#: wp-seowatcher.php:328
+msgid "Other server pattern: google.xxx (google.nl, google.ch...)"
+msgstr "Gültige Muster für andere Server: google.xxx (google.nl, google.ch...)"
+
+#: wp-seowatcher.php:329
+msgid "Select your favourite google server."
+msgstr "Wähle den abzufragenden Google Server."
+
+#: wp-seowatcher.php:334
+msgid "Your Support:"
+msgstr "Deine Unterstützung:"
+
+#: wp-seowatcher.php:336
+msgid "Activate Linking"
+msgstr "Verlinkung aktivieren"
+
+#: wp-seowatcher.php:337
+msgid "Help us by placing an undisruptive link in your footer.</p>"
+msgstr "Helfe uns indem du einen unscheinbaren Link in deinem Footer setzt.</p>"
+
+#: wp-seowatcher.php:342
+msgid "Save"
+msgstr "Speichern"
+
+#: wp-seowatcher.php:348
+msgid "Immediate Refresh"
+msgstr "Sofortige Aktualisierung"
+
+#: wp-seowatcher.php:350
+msgid "<p>The keyword data will be refreshed automatically, every 24 hours. By changing the keywords or URLs, you are triggering a manual refresh.</p><p><b>Too frequent refreshes may lead to problems!</b></p>"
+msgstr "<p>Die Keyworddaten werden automatisch alle 24h aktualisiert. Sollten sie die Keywords oder URLS ändern können sie per Hand eine Aktualisierung auslösen</p><p><b>Zu häufiges Aktualisieren kann zu Problemen führen!</b></p>"
+
+#: wp-seowatcher.php:351
+msgid "Update"
+msgstr "Aktualisieren"
+
+#: wp-seowatcher.php:364
+msgid "Seo Watcher"
+msgstr "Seo Watcher"
+
+#~ msgid "www.google.com"
+#~ msgstr "www.google.de"
+
